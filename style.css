@@ -1,0 +1,71 @@
+/*this code sets the background minimum size, the color and padding*/
+body {
+  background-color:antiquewhite;
+  min-width: 800px;
+  padding: center;
+}
+
+/*sets header background to white*/
+header {
+  background-color:white;
+}
+
+/*sets specifications for the header font, alignment, and layout*/
+header h1 {
+  margin: 0;
+  font-family: cursive;
+  font-size: 72px;
+  color:black;
+  text-align: center;
+  padding: 20px 0 20px 20px;
+}
+
+footer {
+  background-color:white;
+  height:30px;
+}
+
+article {
+  background-color:white;
+}
+
+h2 {
+  font-family:cursive;
+  text-align: center;
+}
+
+h3 {
+  font-family:cursive;
+  text-align: center;
+}
+
+hr {
+  height: 4px;
+  background-color: black;
+}
+
+/*sets specification for lists*/
+ol {
+  text-align: center;
+  list-style-postition: inside;
+}
+/*sets specification for lists*/
+ul {
+  text-align:center;
+  list-style-position: inside;
+}
+/*sets specification for lists*/
+li {
+  font-family:cursive;
+  list-styl-position: inside;
+}
+/*sets image to full width of site based on the screen being 800px*/
+img {
+  width: 800px;
+}
+
+/*sets color that links are as they are used and after use*/
+a:link {color:blue}
+a:visited {color:red}
+a:hover {color:aqua}
+a:active {color:black}
