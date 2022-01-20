@@ -47,7 +47,7 @@ hr {
 /*sets specification for lists*/
 ol {
   text-align: center;
-  list-style-postition: inside;
+  list-style-position: inside;
 }
 /*sets specification for lists*/
 ul {
@@ -57,7 +57,7 @@ ul {
 /*sets specification for lists*/
 li {
   font-family:cursive;
-  list-styl-position: inside;
+  list-style-position: inside;
 }
 /*sets image to full width of site based on the screen being 800px*/
 img {
